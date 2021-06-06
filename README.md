@@ -43,15 +43,15 @@ Rest Assured
 
  1) Spark Report under test-output/Selenix-Spark
 
-    ![Selenix-Spark.png](img_2.png)
+   ![Selenix-Spark.png](img.png)
 
  2) HTML Report under test-output/HtmlReport
      
-    ![Html-Report.png](img_3.png)
+   ![HTML-Report.png](img_1.png)
     
  3) Logger Report under test-output/Selenix-Logger
 
-    ![Selenix-Logger.png](img_4.png)
+    ![Selenix-Logger .png](img_2.png)
 
   
    
